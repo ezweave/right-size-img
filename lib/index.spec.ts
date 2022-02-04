@@ -29,5 +29,5 @@ describe('resizeAllImagesInDirectory', () => {
 	});
 	afterAll(() => {
 		rmdirSync(tempDirectory, { recursive: true });
-	})
+	});
 });
