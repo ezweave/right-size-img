@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getFileList gets a list of files with a compatible extension 1`] = `
+Array [
+  "large_rectangle.png",
+  "large_square.png",
+  "medium_square.png",
+  "small_rectangle.png",
+]
+`;

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`resizeAllImagesInDirectory resize all images in a directory 1`] = `
+Array [
+  "/Users/mweaver/code/right-size-img/lib/__fixtures__/large_rectangle.png converted from 2000x1358 to 1500x1019, written to /Users/mweaver/code/right-size-img/lib/tmp/large_rectangle.png",
+  "/Users/mweaver/code/right-size-img/lib/__fixtures__/large_square.png converted from 6000x6000 to 1500x1500, written to /Users/mweaver/code/right-size-img/lib/tmp/large_square.png",
+  "/Users/mweaver/code/right-size-img/lib/__fixtures__/medium_square.png converted from 1500x1500 to 1500x1500, written to /Users/mweaver/code/right-size-img/lib/tmp/medium_square.png",
+  "/Users/mweaver/code/right-size-img/lib/__fixtures__/small_rectangle.png too small for resize, copied to /Users/mweaver/code/right-size-img/lib/tmp/small_rectangle.png",
+]
+`;
